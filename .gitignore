@@ -1,0 +1,7 @@
+*_exe
+.vscode/
+develop/
+.env
+.hypothesis/
+results/*
+!results/.gitkeep
